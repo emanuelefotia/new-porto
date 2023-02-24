@@ -54,7 +54,7 @@ export default {
       dark: false,
       themes: {
         light: {
-          primary: "#5f9bce",
+          primary: "#5f9bce", 
           secondary: "#002B54",
           background: "#D5F4FF",
         },

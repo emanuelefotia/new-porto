@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <TheHeader app/>
+    <TheHeader app />
     <v-main>
       <Nuxt />
     </v-main>
@@ -14,3 +14,10 @@ export default {
   components: { TheHeader },
 };
 </script>
+
+<style scoped>
+#app {
+  background-image: url(../assets/img/bkop2.png) !important;
+  background-attachment: fixed;
+}
+</style>
